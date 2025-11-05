@@ -9,7 +9,7 @@ Located in Sydney | Co-Founder of [Builderlo](https://builderlo.com) & [AutoElev
 
 ### 🔍 Current Focus
 
-- **RAE-CRS MVPs** (Travel, Education, Healthcare): GPT-4o + RAG + UX-driven design  
+- **Conversational Recommender System (Chatbot/Agent)** (Travel/Healthcare/Banking/Telco): GPT + RAG + UX-driven design  
 - **Agent Evaluation Toolkit**: Behavioural gates (explainable, auditable), scalar scoring, thresholds  
 - **LLM Deployment & Productisation**: Dockerised FastAPI backends, admin dashboards, and tracing  
 - **AWS Deployments**: Scalable stacks with EC2, RDS, S3, Bedrock, and SageMaker
@@ -58,7 +58,7 @@ Located in Sydney | Co-Founder of [Builderlo](https://builderlo.com) & [AutoElev
 
 ### 🚀 Featured Projects
 
-- **🧳 RAE-CRS (Travel MVP)**  
+- **🧳 Conversational Recommender System (Chatbot/Agent)**  
   Conversational recommender with RAG, user context logging, UX-driven prompts, deployed via EC2 + FastAPI  
   _→ Used in controlled human-subject study_
 

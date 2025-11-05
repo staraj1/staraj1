@@ -2,7 +2,7 @@
 ## 🧠 Raj Mahmud (staraj1)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-m-06474125)  
-AI engineer & researcher building **trustworthy AI Agents** using RAG pipelines, agent workflows, and rigorous evaluation frameworks.  
+Senior AI/ML engineer & researcher building **trustworthy AI Agents** using LangGraph, RAG pipelines, and rigorous evaluation frameworks.  
 Located in Sydney | Co-Founder of [Builderlo](https://builderlo.com) & [AutoElevateAI](https://autoelevateai.com)
 
 ---
